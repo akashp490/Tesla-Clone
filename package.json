@@ -15,7 +15,8 @@
     "react-dom": "^18.0.0",
     "react-redux": "^7.2.7",
     "react-reveal": "^1.2.2",
-    "react-scripts": "5.0.0"
+    "react-scripts": "5.0.0",
+    "styled-components": "^5.3.5"
   },
   "scripts": {
     "start": "react-scripts start",
